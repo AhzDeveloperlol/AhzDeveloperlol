@@ -1,9 +1,11 @@
-hi
+# hi
 
-i like  coding in python, C#, ruby and sometimes C++
+My name is Aung (nick: AHZ). I am a programmer. Prepare to code!
 
-i am learning: rust and kotlin currently
+## programming language that I (kinda or fully) knowlanguage:
+  python
+  x86 assembly
+  Kotlin
+  Ruby
 
-java < kotlin
-
-this account is now inactive because i lost most of my interesting coding
+I am also a linux enthuaist (not a F.O.S.S advocate).
